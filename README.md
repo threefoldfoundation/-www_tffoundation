@@ -1,23 +1,12 @@
-# ThreeFold Farming Website
-### To Install
 
-copy the folling in your terminal
+# ThreeFold Website www_examplesite
 
-```bash
-/bin/bash -c "$(curl -fsSL https://raw.githubusercontent.com/threefoldfoundation/www_threefold_farming/master/tools/install.sh)"
-```
+### how to get started
 
-> remark: if you want to install all webtools at once go to: https://github.com/threefoldfoundation/websites and follow instructions there
+see [getting started doc](https://github.com/threefoldfoundation/www_examplesite/blob/development/manual/install.md)
 
+### contribute
 
-### To Run
+see [best practices](https://github.com/threefoldfoundation/www_examplesite/blob/development/manual/contribute.md)
 
-```
-cd ~/code/github/threefoldfoundation/www_threefold_farming
-sh run.sh
-```
-
-this will start a local dev server at http://localhost:8080
-
-to now see your website, copy ```http://localhost:8080``` in your browser
-
+> please make sure you work in line with instructions above
